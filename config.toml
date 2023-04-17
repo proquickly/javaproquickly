@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://javaproquickly.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'JavaProQuickly'
 theme = 'ananke'
